@@ -1,0 +1,24 @@
+{
+    "access_token": "0", 
+    "client_id": "0", 
+    "client_secret": "0", 
+    "refresh_token": null, 
+    "token_expiry": "0", 
+    "token_uri": "https://oauth2.googleapis.com/token", 
+    "user_agent": "Drive API Python Quickstart", 
+    "revoke_uri": "https://oauth2.googleapis.com/revoke", 
+    "id_token": null, 
+    "id_token_jwt": null, 
+    "token_response": 
+    {
+        "access_token": "0", 
+        "expires_in": 3599, 
+        "scope": "https://www.googleapis.com/auth/drive", 
+        "token_type": "0"
+    }, 
+    "scopes": ["https://www.googleapis.com/auth/drive"], 
+    "token_info_uri": "https://oauth2.googleapis.com/tokeninfo", 
+    "invalid": false, 
+    "_class": "0", 
+    "_module": "0"
+}
